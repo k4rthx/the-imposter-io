@@ -1,0 +1,1 @@
+{\n  "name": "the-imposter-io",\n  "version": "1.0.0",\n  "description": "A project for The Imposter game.",\n  "main": "index.js",\n  "scripts": {\n    "start": "http-server ./ -p 8080",\n    "dev": "npm run start"\n  },\n  "dependencies": {\n    "firebase": "^9.0.0",\n    "http-server": "^0.14.0"\n  },\n  "author": "k4rthx",\n  "license": "ISC"\n}
