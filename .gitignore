@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+*.log
+*.env
+
+# Firebase
+firebase-debug.log
+
+# Other standard ignores
+.DS_Store
+*.tgz
